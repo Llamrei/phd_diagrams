@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2021-01-25T16:59:11.807Z" agent="5.0 (Windows)" version="14.2.7" etag="ONNp8Ps6U1W6BdjmVGAw" type="github"><diagram id="vkPxnGEQ-HuCWW-eUO97">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-25T17:09:42.895Z" agent="5.0 (Windows)" etag="f3ps2GANGAb18XDEJoYk" version="14.2.7" type="github">
+  <diagram id="vkPxnGEQ-HuCWW-eUO97" name="Page-1">
+    <mxGraphModel dx="2017" dy="863" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wPJzUEt87zJcXj_9iKr8-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1" source="wPJzUEt87zJcXj_9iKr8-7" target="wPJzUEt87zJcXj_9iKr8-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wPJzUEt87zJcXj_9iKr8-7" value="&lt;b&gt;Text&lt;/b&gt;&lt;br&gt;&lt;br&gt;Lorem Ipsum is simply dummy text of the printing and &lt;br&gt;typesetting industry..." style="shape=card;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="190" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="wPJzUEt87zJcXj_9iKr8-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1" source="wPJzUEt87zJcXj_9iKr8-9" target="wPJzUEt87zJcXj_9iKr8-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wPJzUEt87zJcXj_9iKr8-9" value="&lt;div&gt;&lt;b&gt;Textual encoding&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Represents the process by which we convert the syntactic and semantic logic of a sentence into numeric representations that can represent reasoning through mathematical operations.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;labelBorderColor=none;textDirection=ltr;align=center;spacingLeft=2;spacingBottom=2;" vertex="1" parent="1">
+          <mxGeometry x="90" y="175" width="260" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="wPJzUEt87zJcXj_9iKr8-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1" source="wPJzUEt87zJcXj_9iKr8-11" target="wPJzUEt87zJcXj_9iKr8-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wPJzUEt87zJcXj_9iKr8-11" value="&lt;div&gt;&lt;b&gt;Model&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Determines which mathematical operations are best for extracting the relevant semantic knowledge encoded in typical examples of our text and map it to appropriate real-valued outputs.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;labelBorderColor=none;textDirection=ltr;align=center;spacingLeft=2;spacingBottom=2;spacingRight=2;" vertex="1" parent="1">
+          <mxGeometry x="380" y="175" width="260" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="wPJzUEt87zJcXj_9iKr8-14" value="&lt;b&gt;Real-valued prediction&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="670" y="205" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
